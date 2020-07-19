@@ -1,0 +1,32 @@
+{
+  "name": "maximo_mercado",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "bootstrap-vue": "^2.15.0",
+    "core-js": "^3.6.5",
+    "jquery": "^3.5.1",
+    "vue": "^2.6.11",
+    "vue-icon": "^2.1.2",
+    "vue-router": "^3.3.4",
+    "vue-simple-alert": "^1.1.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.4.6",
+    "@vue/cli-service": "^4.4.6",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
